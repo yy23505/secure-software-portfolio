@@ -1,1 +1,3 @@
-Eportfolio for MSc Computer Science - Secure Software Development
+e-Portfolio for MSc Computer Science
+Secure Software Development Module
+Yanani Yasotharan
